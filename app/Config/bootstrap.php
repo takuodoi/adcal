@@ -106,4 +106,3 @@ CakeLog::config('error', array(
 	'file' => 'error',
 ));
 
-CakePlugin::load('Heroku', array('boostrap' => true));
